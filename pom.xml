@@ -126,6 +126,8 @@
         <module>components/org.wso2.carbon.identity.account.suspension.notification.task</module>
         <module>components/org.wso2.carbon.identity.user.export.core</module>
         <module>components/org.wso2.carbon.identity.piicontroller</module>
+        <module>components/org.wso2.carbon.identity.user.session</module>
+        <module>components/org.wso2.carbon.identity.user.session.endpoint</module>
         <module>components/org.wso2.carbon.identity.user.rename.core</module>
         <module>components/org.wso2.carbon.identity.user.endpoint</module>
 
